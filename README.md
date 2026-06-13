@@ -26,8 +26,7 @@ This repository contains the **official study modules for CEH v13 (Certified Eth
 20. CEHv13 - Module 20 - Cryptography  
 21. CEHv13_Appendix.pdf
 
-🔗 **Looking for more premium-quality resources?**  
-Join the Telegram channel: [https://t.me/+1xjYMY5vWTgyZDRl](https://t.me/+1xjYMY5vWTgyZDRl)
+
 
 ---
 
